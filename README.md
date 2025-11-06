@@ -46,7 +46,5 @@ The system enables the tracking of hospital activity, mortality, patient satisfa
 
 ---
 
-## ⚠️ Note
 
-All data used in this dashboard is fictional and for educational purposes only.
 
